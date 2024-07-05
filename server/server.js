@@ -30,7 +30,7 @@ app.use('/api', router) /** apis */
 
 app.get('/', (req, res) => {
     try {
-        res.json("Get Request")
+        res.json("backend working")
     } catch (error) {
         res.json(error)
     }
