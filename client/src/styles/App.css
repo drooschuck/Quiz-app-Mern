@@ -33,7 +33,6 @@ body, html {
     padding: 20px;
     background: var(--light-color);
     border-radius: 8px;
-    overflow: hidden;
 }
 
 .container .title {
