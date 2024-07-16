@@ -1,1 +1,1 @@
-[Visit Website](https://iq-app.netlify.app/))
+[Visit Website](https://iq-app.netlify.app/)
